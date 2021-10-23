@@ -1,2 +1,2 @@
 # glass-card-flexbox
- responsive glass card using html & css flexbox
+ glass card using css flex box layout
